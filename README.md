@@ -17,6 +17,7 @@ This project analyzes the relationship between Bitcoin market sentiment (Fear/Gr
 1. **Clone the repo**:
 
 git clone https://github.com/Vandana-cherukuri/trader-sentiment-analysis
+
 cd trader-sentiment-analysis
 Install dependencies:
 
